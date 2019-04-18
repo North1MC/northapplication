@@ -1,1 +1,1 @@
-[null]
+[null,{"name":"Test","permissions":"ADMINISTRATOR","restriction":"1","actions":[{"storage":"0","varName":"","name":"Delete Message"},{"info":"0","infoIndex":"1","storage":"1","varName":"test","name":"Store Command Params"},{"time":"3","measurement":"1","name":"Wait"},{"channel":"0","varName":"","message":"**Jest to testowa Komenda!**","storage":"1","varName2":"test","name":"Send Message"}]}]
